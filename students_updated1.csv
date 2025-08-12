@@ -1,0 +1,1626 @@
+,Student,GENDER_CD,CLASS_YR,Fall_2011,Freshman,meal_plan
+0,67130,F,2012,Columbus,Charleston,19MF
+1,101400,F,2012,Providence,Fargo,19MF
+2,118306,F,2012,Dallas,Detroit,14MF
+3,30533,M,2012,New York,Detroit,19MF
+4,185911,M,2012,New York,Newark,19MF
+5,149681,M,2012,Baltimore,Fargo,19MF
+6,212190,F,2012,New York,Fargo,19MF
+7,213526,F,2012,Baltimore,Nashville,19MF
+8,159865,M,2012,New York,Newark,19MF
+9,125349,M,2012,Tulsa,Newark,14MF
+10,134041,F,2012,New York,Topeka,14MF
+11,67920,F,2012,New York,Scranton,19MF
+12,131055,M,2012,New York,Charleston,19MF
+13,186556,M,2012,Fargo,Charleston,19MF
+14,204004,F,2012,Charleston,Scranton,19MF
+15,82286,M,2012,Birmingham,Nashville,14MF
+16,106830,M,2012,Baltimore,Charleston,19MF
+17,50237,F,2012,Baltimore,Indianapolis,19MF
+18,39729,M,2012,Providence,Topeka,19MF
+19,36190,F,2012,New York,Nashville,19MF
+20,122706,M,2012,Dallas,Topeka,14MF
+21,208771,M,2012,Providence,Indianapolis,14MF
+22,17699,F,2012,Eugene,Nashville,10MF
+23,29704,F,2012,Eugene,Nashville,19MF
+24,19788,F,2012,New York,Newark,19MF
+25,134444,M,2012,New York,Newark,19MF
+26,16498,F,2012,Scranton,Scranton,19MF
+27,141064,F,2012,Detroit,Nashville,19MF
+28,43399,M,2012,New York,Indianapolis,19MF
+29,53082,F,2012,Baltimore,Fargo,14MF
+30,57756,F,2012,New York,Nashville,14MF
+31,138820,M,2012,Baltimore,Fargo,19MF
+32,98404,M,2012,New York,Detroit,19MF
+33,176281,M,2012,New York,Newark,14MF
+34,163306,M,2012,Providence,Detroit,10MF
+35,90966,F,2012,Fargo,Fargo,19MF
+36,121977,F,2012,New York,Nashville,19MF
+37,75094,F,2012,Baltimore,Scranton,14MF
+38,76879,F,2012,New York,Topeka,19MF
+39,108394,F,2012,Seattle,Nashville,19MF
+40,94205,F,2012,New York,Scranton,19MF
+41,45183,M,2012,Baltimore,Charleston,19MF
+42,73833,M,2012,Dallas,Detroit,14MF
+43,157144,F,2012,Madison,Indianapolis,19MF
+44,176703,F,2012,Scranton,Scranton,19MF
+45,113208,M,2012,Baltimore,Fargo,19MF
+46,14052,F,2012,New York,Detroit,19MF
+47,152336,F,2012,Columbus,Charleston,19MF
+48,124863,M,2012,New York,Charleston,19MF
+49,203162,M,2012,New York,Fargo,19MF
+50,75492,M,2012,Columbus,Nashville,9MF
+51,116049,M,2012,New York,Nashville,14MF
+52,112714,F,2012,New York,Topeka,14MF
+53,213569,M,2012,Baltimore,Fargo,14MF
+54,172043,M,2012,Scranton,Detroit,19MF
+55,9437,F,2012,New York,Topeka,19MF
+56,197789,F,2012,Baltimore,Fargo,19MF
+57,183809,F,2012,Columbus,Charleston,19MF
+58,38534,M,2012,Columbus,Topeka,14MF
+59,212280,F,2012,New York,Fargo,14MF
+60,127293,M,2012,Newark,Nashville,14MF
+61,144377,M,2012,New York,Indianapolis,14MF
+62,154295,F,2012,Atlanta,Detroit,19MF
+63,181929,F,2012,Providence,Nashville,14MF
+64,59258,M,2012,Providence,Detroit,14MF
+65,182686,M,2012,New York,Scranton,19MF
+66,73033,M,2012,Baltimore,Detroit,19MF
+67,150545,M,2012,New York,Newark,14MF
+68,98207,F,2012,New York,Charleston,19MF
+69,96615,M,2012,Baltimore,Fargo,14MF
+70,175708,M,2012,Columbus,Topeka,14MF
+71,139837,F,2012,New York,Fargo,19MF
+72,205232,F,2012,Baltimore,Topeka,19MF
+73,191979,M,2012,Dallas,Detroit,19MF
+74,102669,M,2012,Providence,Detroit,19MF
+75,5512,F,2012,New York,Newark,19MF
+76,107855,F,2012,Columbus,Charleston,19MF
+77,69857,F,2012,New York,Indianapolis,19MF
+78,142480,M,2012,Tulsa,Indianapolis,14MF
+79,181655,M,2012,Columbus,Newark,19MF
+80,58692,F,2012,Baltimore,Charleston,10MF
+81,56226,F,2012,Baltimore,Topeka,14MF
+82,14908,M,2012,New York,Scranton,19MF
+83,168626,F,2012,New York,Charleston,19MF
+84,193493,M,2012,New York,Indianapolis,19MF
+85,163948,F,2012,Columbus,Newark,14MF
+86,47986,M,2012,Columbus,Newark,14MF
+87,180642,F,2012,New York,Detroit,19MF
+88,165933,F,2012,Providence,Topeka,14MF
+89,765,F,2012,Baltimore,Fargo,19MF
+90,188984,F,2012,New York,Topeka,14MF
+91,62049,M,2012,Columbus,Detroit,14MF
+92,153463,M,2012,New York,Scranton,19MF
+93,95020,M,2012,New York,Indianapolis,19MF
+94,56493,F,2012,New York,Nashville,14MF
+95,4057,M,2012,New York,Topeka,19MF
+96,83960,F,2012,New York,Topeka,19MF
+97,209573,M,2012,New York,Charleston,19MF
+98,68422,M,2012,New York,Indianapolis,14MF
+99,40254,F,2012,New York,Fargo,19MF
+100,154727,F,2012,New York,Indianapolis,19MF
+101,191120,M,2012,Providence,Topeka,14MF
+102,16917,M,2012,Topeka,Fargo,19MF
+103,22742,M,2012,Baltimore,Fargo,19MF
+104,108857,M,2012,Hartford,Scranton,14MF
+105,38252,M,2012,New York,Detroit,19MF
+106,127147,M,2012,New York,Fargo,19MF
+107,199689,F,2013,Seattle,Fargo,19MF
+108,200912,M,2013,Providence,Topeka,19MF
+109,123538,M,2013,Providence,Fargo,14MF
+110,68334,F,2013,Chicago,Nashville,14MF
+111,74194,F,2013,Tulsa,Fargo,10MF
+112,201378,F,2013,Eugene,Newark,10MF
+113,87587,F,2013,Detroit,Topeka,19MF
+114,65957,F,2013,Eugene,Fargo,19MF
+115,33108,M,2013,Baltimore,Topeka,19MF
+116,204407,M,2013,Providence,Nashville,10MF
+117,89950,M,2013,Providence,Detroit,19MF
+118,70083,M,2013,Providence,Nashville,14MF
+119,47439,M,2013,Baltimore,Scranton,19MF
+120,27197,F,2013,Dallas,Charleston,14MF
+121,62771,M,2013,Seattle,Nashville,10MF
+122,133014,F,2013,Seattle,Fargo,19MF
+123,183061,F,2013,Providence,Fargo,19MF
+124,115041,M,2013,New York,Nashville,19MF
+125,50816,M,2013,New Orleans,Fargo,14MF
+126,44508,M,2013,Providence,Topeka,19MF
+127,68233,M,2013,Providence,Newark,19MF
+128,45057,F,2013,Tulsa,Fargo,19MF
+129,24159,F,2013,Baltimore,Scranton,19MF
+130,170812,M,2013,Tulsa,Charleston,19MF
+131,45869,F,2013,Providence,Scranton,14MF
+132,107193,M,2013,Pittsburgh,Pittsburgh,14MF
+133,107916,F,2013,Scranton,Nashville,19MF
+134,190451,F,2013,New York,Nashville,19MF
+135,158579,M,2013,Tulsa,Nashville,19MF
+136,118810,M,2013,Providence,Detroit,19MF
+137,140574,M,2013,Scranton,Scranton,14MF
+138,114159,F,2013,Eugene,Eugene,14MF
+139,137225,F,2013,Birmingham,Scranton,19MF
+140,181342,F,2013,New York,Charleston,19MF
+141,153689,M,2013,Providence,Nashville,19MF
+142,91656,F,2013,Eugene,Charleston,19MF
+143,133361,F,2013,Providence,Indianapolis,19MF
+144,139841,F,2013,Providence,Nashville,14MF
+145,173592,M,2013,New York,Topeka,19MF
+146,192731,M,2013,Baltimore,Indianapolis,14MF
+147,54095,F,2013,Providence,Detroit,19MF
+148,75885,M,2013,Providence,Detroit,14MF
+149,52204,M,2013,Dallas,Scranton,14MF
+150,169871,M,2013,Columbus,Detroit,19MF
+151,52486,M,2013,Providence,Charleston,14MF
+152,28889,F,2013,Baltimore,Newark,14MF
+153,196689,M,2013,Providence,Detroit,19MF
+154,88533,F,2013,Eugene,Charleston,19MF
+155,168635,F,2013,Providence,Newark,19MF
+156,155128,M,2013,New York,Topeka,19MF
+157,130997,M,2013,Baltimore,Fargo,19MF
+158,57287,F,2013,Santa Fe,Fargo,14MF
+159,105427,F,2013,Providence,Newark,19MF
+160,17135,F,2013,Scranton,Indianapolis,19MF
+161,163641,F,2013,Eugene,Scranton,19MF
+162,34668,M,2013,Santa Fe,Nashville,14MF
+163,41291,F,2013,Providence,Newark,19MF
+164,64347,M,2013,Providence,Fargo,19MF
+165,179683,M,2013,New York,Topeka,19MF
+166,39114,M,2013,Eugene,Topeka,19MF
+167,170157,F,2013,Providence,Nashville,14MF
+168,148480,F,2013,Providence,Fargo,14MF
+169,79521,F,2013,Providence,Nashville,14MF
+170,29777,M,2013,Baltimore,Fargo,19MF
+171,192113,M,2013,Providence,Newark,19MF
+172,22384,F,2013,Providence,Newark,19MF
+173,125236,M,2013,Columbus,Nashville,19MF
+174,144664,M,2013,New York,Nashville,19MF
+175,38446,F,2013,Birmingham,Topeka,14MF
+176,8222,F,2013,New Orleans,Nashville,19MF
+177,34087,F,2013,Eugene,Newark,14MF
+178,182730,M,2013,Providence,Newark,19MF
+179,213679,F,2013,Providence,Scranton,19MF
+180,13498,F,2013,Providence,Fargo,19MF
+181,49386,F,2013,New York,Nashville,19MF
+182,192416,F,2013,Providence,Newark,14MF
+183,200422,F,2013,New York,Detroit,19MF
+184,195315,M,2013,Providence,Detroit,19MF
+185,95316,F,2013,New Orleans,Charleston,14MF
+186,136284,M,2013,Eugene,Topeka,19MF
+187,123892,M,2013,Providence,Fargo,14MF
+188,12282,M,2013,Providence,Nashville,19MF
+189,22760,M,2013,Eugene,Indianapolis,19MF
+190,37709,F,2013,Santa Fe,Detroit,
+191,31431,F,2013,Providence,Nashville,19MF
+192,105476,M,2013,New Orleans,Fargo,19MF
+193,81669,M,2013,Providence,Indianapolis,19MF
+194,110603,M,2013,Providence,Topeka,19MF
+195,6987,F,2013,Eugene,Scranton,19MF
+196,89540,M,2013,Eugene,Indianapolis,19MF
+197,195049,F,2013,New Orleans,Nashville,14MF
+198,172952,M,2013,Fargo,Fargo,19MF
+199,52024,M,2013,Detroit,Indianapolis,19MF
+200,45247,F,2013,Indianapolis,Topeka,14MF
+201,184475,F,2013,Providence,Newark,19MF
+202,176681,F,2013,Baltimore,Nashville,19MF
+203,76391,M,2013,Providence,Newark,19MF
+204,131636,F,2013,Los Angeles,Indianapolis,14MF
+205,137824,F,2013,Providence,Fargo,19MF
+206,143066,M,2013,Baltimore,Indianapolis,19MF
+207,133122,M,2013,Eugene,Charleston,14MF
+208,185925,F,2013,Boise,Fargo,19MF
+209,93529,F,2013,Providence,Indianapolis,19MF
+210,116129,F,2013,Atlanta,Topeka,19MF
+211,99716,M,2013,Detroit,Indianapolis,19MF
+212,68470,M,2013,Charleston,Newark,19MF
+213,203302,F,2013,Providence,Nashville,19MF
+214,166498,M,2013,Baltimore,Topeka,19MF
+215,201133,M,2013,Tulsa,Newark,19MF
+216,188598,M,2013,Santa Fe,Topeka,14MF
+217,158171,F,2013,Tulsa,Indianapolis,19MF
+218,121094,F,2013,Providence,Fargo,19MF
+219,188306,M,2013,Baltimore,Detroit,14MF
+220,2829,M,2013,Nashville,Nashville,19MF
+221,85125,F,2013,Baltimore,Newark,19MF
+222,98575,M,2013,Baltimore,Nashville,10MF
+223,26450,M,2013,Eugene,Detroit,19MF
+224,70242,M,2013,Detroit,Detroit,19MF
+225,145047,M,2013,Providence,Scranton,19MF
+226,55787,F,2013,Eugene,Fargo,19MF
+227,131439,M,2013,Eugene,Detroit,19MF
+228,6394,F,2013,Providence,Topeka,19MF
+229,182774,F,2013,Providence,Detroit,14MF
+230,61436,M,2013,Providence,Scranton,19MF
+231,122350,M,2013,Eugene,Charleston,19MF
+232,39010,M,2013,Baltimore,Nashville,19MF
+233,56164,F,2013,Dallas,Charleston,19MF
+234,22885,M,2013,Providence,Nashville,10MF
+235,62097,M,2013,Hartford,Nashville,19MF
+236,103665,F,2013,Eugene,Fargo,19MF
+237,93431,F,2013,Providence,Detroit,10MF
+238,189593,F,2013,Providence,Newark,14MF
+239,136947,F,2013,Detroit,Topeka,19MF
+240,101395,M,2013,New York,Fargo,19MF
+241,173501,F,2013,Santa Fe,Topeka,19MF
+242,125090,F,2013,Providence,Indianapolis,19MF
+243,142931,M,2013,Providence,Nashville,10MF
+244,137674,F,2013,New York,Indianapolis,10MF
+245,144307,M,2013,Columbus,Nashville,19MF
+246,103484,M,2013,Baltimore,Fargo,19MF
+247,42219,F,2013,Scranton,Nashville,19MF
+248,107777,M,2013,Providence,Detroit,19MF
+249,108000,F,2013,Providence,Indianapolis,14MF
+250,177402,F,2013,Tulsa,Detroit,19MF
+251,58857,M,2013,Columbus,Nashville,19MF
+252,142528,F,9999,Baltimore,,14MF
+253,71751,F,9999,New Orleans,,19MF
+254,73997,F,9999,New Orleans,,19MF
+255,144659,M,2011,Baltimore,Indianapolis,14MF
+256,99420,F,2011,New York,Nashville,10MF
+257,74381,M,2011,Baltimore,Nashville,14MF
+258,34712,F,2011,Baltimore,Indianapolis,19MF
+259,183158,M,2011,Baltimore,Nashville,19MF
+260,92233,M,2011,Baltimore,Indianapolis,19MF
+261,145506,M,2011,Baltimore,Scranton,19MF
+262,110214,F,2011,Columbus,Charleston,19MF
+263,15417,F,2012,Providence,Newark,19MF
+264,191921,F,2012,New York,Charleston,19MF
+265,208390,M,2012,Providence,Detroit,14MF
+266,128939,M,2012,Atlanta,Detroit,19MF
+267,39867,F,2012,New York,Indianapolis,19MF
+268,194761,M,2012,Providence,Fargo,19MF
+269,37397,M,2012,Providence,Scranton,14MF
+270,118947,F,2012,New York,Scranton,19MF
+271,158188,M,2012,New York,Charleston,19MF
+272,133942,F,2012,Providence,Providence,19MF
+273,111062,F,2012,Seattle,Nashville,10MF
+274,9346,M,2012,New York,Nashville,19MF
+275,161671,M,2012,Providence,Indianapolis,19MF
+276,159917,M,2012,New York,Fargo,19MF
+277,52134,M,2012,Columbus,Scranton,14MF
+278,76358,M,2012,New York,Scranton,14MF
+279,33646,M,2012,New York,Fargo,14MF
+280,82916,F,2012,New York,Topeka,14MF
+281,74462,F,2012,New York,Fargo,19MF
+282,138143,M,2012,Baltimore,Charleston,19MF
+283,53085,M,2012,New York,Scranton,14MF
+284,136992,M,2012,New York,Charleston,19MF
+285,101480,F,2012,New York,Indianapolis,19MF
+286,19107,F,2012,New York,Nashville,19MF
+287,132186,M,2012,Columbus,Topeka,19MF
+288,126551,F,2012,New York,Topeka,19MF
+289,206267,M,2012,Columbus,Scranton,19MF
+290,87659,M,2012,Baltimore,Nashville,14MF
+291,22570,F,2012,New York,New York,14MF
+292,201933,M,2012,Columbus,Charleston,14MF
+293,51405,M,2012,Providence,Nashville,19MF
+294,160907,M,2012,Tulsa,Detroit,10MF
+295,71156,F,2012,Topeka,Fargo,19MF
+296,18102,M,2012,New York,Indianapolis,14MF
+297,82367,F,2012,New York,Detroit,19MF
+298,177043,F,2012,Tulsa,Detroit,14MF
+299,169903,F,2012,Baltimore,Fargo,19MF
+300,123192,F,2012,New York,Fargo,19MF
+301,108841,F,2012,New York,Scranton,19MF
+302,46846,M,2012,New York,Topeka,14MF
+303,206994,F,2012,New York,Indianapolis,14MF
+304,47219,M,2012,Providence,Detroit,19MF
+305,100918,M,2012,Columbus,Newark,14MF
+306,191772,M,2012,Indianapolis,Indianapolis,14MF
+307,52652,F,2012,New York,Detroit,19MF
+308,179829,M,2012,New York,Detroit,19MF
+309,188266,F,2012,Columbus,Fargo,19MF
+310,61688,M,2012,New York,Indianapolis,19MF
+311,6645,F,2012,New York,Charleston,19MF
+312,91118,F,2012,New York,Detroit,19MF
+313,5111,F,2012,New York,Nashville,19MF
+314,125571,F,2012,New York,Topeka,19MF
+315,7981,F,2012,New York,Fargo,14MF
+316,54543,F,2012,New York,Charleston,19MF
+317,134335,M,2012,Eugene,Nashville,14MF
+318,109945,F,2012,Providence,Nashville,10MF
+319,67785,F,2012,New York,Newark,19MF
+320,68222,M,2012,New York,Indianapolis,19MF
+321,170818,M,2012,New York,Indianapolis,14MF
+322,193034,M,2012,New York,Topeka,19MF
+323,35601,F,2012,Baltimore,Fargo,9MF
+324,116383,M,2012,New York,Fargo,19MF
+325,166806,M,2012,Nashville,Scranton,14MF
+326,124941,F,2012,Providence,Nashville,10MF
+327,74597,M,2012,Columbus,Indianapolis,14MF
+328,199402,F,2012,Nashville,Nashville,19MF
+329,75679,M,2012,Baltimore,Fargo,14MF
+330,12712,F,2012,New York,Topeka,19MF
+331,166339,M,2012,New York,Indianapolis,19MF
+332,191070,F,2012,New York,Indianapolis,10MF
+333,202103,M,2012,New York,Newark,14MF
+334,79467,M,2012,New York,Nashville,14MF
+335,185323,M,2012,Columbus,Scranton,19MF
+336,147487,F,2012,Baltimore,Fargo,19MF
+337,37444,F,2012,New York,Indianapolis,19MF
+338,42645,M,2012,New York,Indianapolis,19MF
+339,25336,F,2012,New York,Scranton,19MF
+340,85596,M,2012,Birmingham,Fargo,14MF
+341,105143,F,2012,Eugene,Nashville,14MF
+342,130636,M,2012,New York,Nashville,14MF
+343,102406,F,2012,Eugene,Nashville,19MF
+344,59994,F,2012,New York,Indianapolis,19MF
+345,113922,F,2012,New York,Charleston,19MF
+346,75973,F,2012,New York,Scranton,19MF
+347,33811,M,2012,Eugene,Detroit,19MF
+348,157927,M,2012,Baltimore,Fargo,19MF
+349,135843,F,2012,Baltimore,Indianapolis,19MF
+350,177096,M,2012,New York,Topeka,14MF
+351,89926,M,2012,Columbus,Nashville,14MF
+352,130386,F,2012,Baltimore,Fargo,19MF
+353,115349,F,2012,Providence,Topeka,19MF
+354,127168,F,2012,New York,Nashville,19MF
+355,16527,F,2012,Columbus,Newark,19MF
+356,63019,M,2012,Baltimore,Nashville,19MF
+357,59371,F,2012,Baltimore,Fargo,19MF
+358,125665,M,2012,New York,Fargo,19MF
+359,170187,M,2012,Baltimore,Topeka,19MF
+360,170055,F,2012,Baltimore,Fargo,19MF
+361,70800,F,2012,Baltimore,Nashville,19MF
+362,126781,F,2012,Seattle,Detroit,10MF
+363,54141,M,2012,Columbus,Indianapolis,19MF
+364,181821,M,2012,Providence,Detroit,19MF
+365,211298,F,2012,Baltimore,Nashville,19MF
+366,21601,F,2012,New York,Detroit,19MF
+367,138718,M,2012,Columbus,Detroit,14MF
+368,27101,M,2012,New York,Fargo,10MF
+369,107783,M,2012,New York,Detroit,9MF
+370,104030,F,2012,New York,Topeka,10MF
+371,199971,F,2012,Baltimore,Indianapolis,19MF
+372,188898,F,2012,Baltimore,Fargo,19MF
+373,106099,M,2012,New York,Fargo,19MF
+374,101201,M,2012,New York,Scranton,14MF
+375,77110,M,2012,Providence,Charleston,19MF
+376,24283,F,2012,New York,Nashville,19MF
+377,152540,F,2012,New York,Indianapolis,19MF
+378,205820,F,2012,Providence,Nashville,19MF
+379,176010,F,2012,Baltimore,Fargo,19MF
+380,3474,F,2012,New York,Fargo,14MF
+381,35666,M,2012,New York,Indianapolis,19MF
+382,150951,F,2012,New York,Charleston,19MF
+383,21074,M,2012,Columbus,Indianapolis,14MF
+384,124378,F,2012,New York,Newark,14MF
+385,110383,M,2012,Columbus,Topeka,14MF
+386,61705,M,2012,Baltimore,Fargo,19MF
+387,95525,F,2012,Baltimore,Fargo,19MF
+388,39528,F,2012,Providence,Topeka,14MF
+389,113616,M,2012,Providence,Topeka,14MF
+390,211211,M,2012,Providence,Indianapolis,14MF
+391,100535,M,2012,New York,Scranton,14MF
+392,88931,F,2012,New York,Newark,19MF
+393,62306,F,2012,Santa Fe,Fargo,10MF
+394,157955,F,2012,New York,Topeka,19MF
+395,206694,F,2012,Columbus,Scranton,
+396,120164,M,2012,New York,Nashville,19MF
+397,169810,F,2012,New York,Nashville,19MF
+398,103163,F,2012,New York,Detroit,19MF
+399,23943,F,2012,New York,Newark,14MF
+400,169022,F,2012,New York,Charleston,14MF
+401,133117,F,2012,New York,Indianapolis,14MF
+402,134443,F,2012,New York,Scranton,19MF
+403,66196,F,2012,Providence,Indianapolis,14MF
+404,120483,M,2012,Baltimore,Topeka,14MF
+405,119039,F,2012,Providence,Nashville,19MF
+406,131695,M,2012,New York,Newark,14MF
+407,83061,F,2012,New York,Detroit,14MF
+408,45840,M,2012,Providence,Topeka,19MF
+409,134339,M,2012,Baltimore,Detroit,19MF
+410,20363,M,2012,Columbus,Indianapolis,19MF
+411,139632,M,2012,New York,Topeka,19MF
+412,118345,F,2012,Baltimore,Fargo,19MF
+413,43758,M,2012,Columbus,Newark,14MF
+414,53369,M,2012,New York,Detroit,14MF
+415,17898,F,2012,New York,Newark,19MF
+416,157809,F,2012,Columbus,Topeka,19MF
+417,84449,F,2012,Providence,Fargo,19MF
+418,118082,F,2012,New York,Detroit,14MF
+419,153384,F,2012,New York,Topeka,19MF
+420,69276,M,2012,New York,Scranton,19MF
+421,102524,M,2012,New York,Scranton,19MF
+422,169442,M,2012,New York,Charleston,19MF
+423,33170,F,2012,New York,Charleston,19MF
+424,38995,F,2012,Baltimore,Nashville,19MF
+425,132390,M,2012,Baltimore,Charleston,10MF
+426,57317,F,2012,Dallas,Detroit,14MF
+427,167311,M,2012,Baltimore,Scranton,14MF
+428,127103,M,2012,New York,Scranton,19MF
+429,195382,M,2012,New York,Nashville,19MF
+430,178136,F,2012,New York,Nashville,19MF
+431,96430,F,2012,Providence,Scranton,14MF
+432,157975,F,2012,New York,Indianapolis,14MF
+433,116458,F,2012,Tulsa,Fargo,
+434,92949,M,2012,Atlanta,Charleston,19MF
+435,108655,M,2012,Nashville,Detroit,19MF
+436,146866,F,2012,New York,Detroit,19MF
+437,3829,M,2012,New York,Indianapolis,19MF
+438,20671,F,2012,New York,Scranton,14MF
+439,171903,M,2012,Providence,Scranton,19MF
+440,192579,F,2012,New York,Charleston,14MF
+441,95097,M,2012,New York,Topeka,19MF
+442,46137,M,2012,New York,Scranton,14MF
+443,204548,M,2012,Scranton,Scranton,19MF
+444,193972,M,2012,Baltimore,Fargo,14MF
+445,135844,M,2012,Providence,Topeka,19MF
+446,199921,F,2012,Atlanta,Newark,19MF
+447,61240,M,2012,New York,Topeka,19MF
+448,174327,F,2012,New York,Indianapolis,19MF
+449,168761,F,2012,New York,Newark,19MF
+450,203666,F,2012,Eugene,Nashville,19MF
+451,198152,M,2012,Baltimore,Fargo,19MF
+452,36325,F,2012,New York,Fargo,19MF
+453,206976,M,2012,Providence,Providence,14MF
+454,113298,M,2012,New York,Scranton,19MF
+455,163277,F,2012,New York,Charleston,14MF
+456,162364,M,2012,Columbus,Indianapolis,14MF
+457,141556,F,2012,New York,Detroit,19MF
+458,172685,M,2012,Providence,Newark,14MF
+459,151542,M,2012,Providence,Topeka,14MF
+460,17294,F,2012,New York,Scranton,19MF
+461,20850,M,2012,New York,Topeka,14MF
+462,23851,M,2012,New York,Topeka,19MF
+463,96734,F,2012,Newark,Detroit,19MF
+464,12740,M,2012,New York,Topeka,14MF
+465,179408,F,2012,Eugene,Nashville,14MF
+466,132504,F,2012,New York,Charleston,19MF
+467,150240,F,2012,Columbus,Detroit,19MF
+468,33672,M,2012,Providence,Topeka,14MF
+469,30999,M,2012,New York,Charleston,19MF
+470,539,F,2012,Eugene,Detroit,19MF
+471,134883,M,2012,Baltimore,Fargo,19MF
+472,206237,M,2012,New York,Scranton,19MF
+473,1064,F,2012,Baltimore,Detroit,14MF
+474,18166,F,2012,Baltimore,Fargo,14MF
+475,52431,M,2012,New York,Nashville,19MF
+476,195989,M,2012,New York,Newark,19MF
+477,145308,F,2012,New York,Fargo,19MF
+478,121000,M,2012,Providence,Indianapolis,19MF
+479,3617,M,2012,Tulsa,Topeka,14MF
+480,31014,F,2012,New York,Nashville,19MF
+481,43535,M,2012,New York,Newark,14MF
+482,105767,F,2012,New York,Detroit,19MF
+483,195659,F,2012,Tulsa,Scranton,
+484,151287,F,2012,New York,Indianapolis,19MF
+485,59759,F,2012,Providence,Charleston,10MF
+486,151940,M,2012,Columbus,Indianapolis,14MF
+487,161410,M,2012,New York,Nashville,14MF
+488,73642,F,2012,Baltimore,Fargo,19MF
+489,49133,F,2012,New York,Indianapolis,10MF
+490,94846,F,2012,New York,Charleston,19MF
+491,16583,F,2012,New York,Indianapolis,14MF
+492,132670,F,2012,New York,Newark,19MF
+493,107098,M,2012,New York,Charleston,19MF
+494,45693,M,2012,New York,Detroit,19MF
+495,50509,M,2012,New York,Scranton,14MF
+496,90323,F,2012,Baltimore,Fargo,19MF
+497,152881,M,2012,New York,Indianapolis,14MF
+498,22029,M,2012,New York,Charleston,19MF
+499,150603,F,2012,New York,Newark,19MF
+500,2803,M,2012,Columbus,Newark,14MF
+501,8659,M,2012,New York,Scranton,19MF
+502,183740,F,2012,Baltimore,Indianapolis,14MF
+503,127986,M,2012,New York,Fargo,19MF
+504,139822,M,2012,New York,Indianapolis,19MF
+505,100584,M,2013,Providence,Nashville,19MF
+506,43185,M,2013,Providence,Indianapolis,14MF
+507,18065,M,2013,New Orleans,Charleston,19MF
+508,119949,M,2013,New Orleans,Charleston,19MF
+509,655,F,2013,Columbus,Detroit,19MF
+510,89249,M,2013,Eugene,Newark,14MF
+511,124274,M,2013,Santa Fe,Fargo,14MF
+512,128359,F,2013,Tulsa,Nashville,19MF
+513,42782,M,2013,Scranton,Indianapolis,19MF
+514,139933,M,2013,Providence,Indianapolis,19MF
+515,147118,F,2013,Seattle,Fargo,19MF
+516,64572,F,2013,Providence,Fargo,19MF
+517,116802,M,2013,Providence,Newark,19MF
+518,27591,F,2013,Eugene,Scranton,19MF
+519,148672,M,2013,Providence,Nashville,19MF
+520,37768,F,2013,Birmingham,Detroit,19MF
+521,85750,M,2013,St. Paul,Topeka,14MF
+522,199446,F,2013,Detroit,Newark,14MF
+523,170114,F,2013,Scranton,Newark,19MF
+524,4360,F,2013,Los Angeles,Topeka,14MF
+525,60031,M,2013,Boise,Newark,19MF
+526,194468,F,2013,Providence,Indianapolis,14MF
+527,175136,M,2013,Providence,Indianapolis,19MF
+528,187601,M,2013,Eugene,Fargo,14MF
+529,36368,F,2013,Eugene,Scranton,19MF
+530,37160,F,2013,Providence,Indianapolis,19MF
+531,180645,M,2013,Baltimore,Fargo,19MF
+532,153977,M,2013,Providence,Charleston,19MF
+533,4913,M,2013,Providence,Indianapolis,19MF
+534,118836,F,2013,Providence,Charleston,19MF
+535,177394,F,2013,Scranton,Scranton,14MF
+536,20088,F,2013,New York,Fargo,19MF
+537,120708,M,2013,Providence,Indianapolis,14MF
+538,157129,F,2013,Baltimore,Fargo,19MF
+539,82578,F,2013,Providence,Scranton,19MF
+540,144937,M,2013,Detroit,Nashville,19MF
+541,166649,M,2013,Providence,Nashville,19MF
+542,204161,M,2013,Detroit,Nashville,19MF
+543,12132,F,2013,Baltimore,Charleston,19MF
+544,100586,F,2013,Providence,Newark,14MF
+545,28573,M,2013,Eugene,Charleston,19MF
+546,35583,M,2013,New Orleans,Fargo,14MF
+547,127641,M,2013,Baltimore,Detroit,14MF
+548,117693,F,2013,Santa Fe,Fargo,14MF
+549,143255,M,2013,Scranton,Indianapolis,14MF
+550,177475,M,2013,St. Paul,Topeka,14MF
+551,101003,M,2013,Providence,Scranton,19MF
+552,179917,F,2013,New York,Charleston,19MF
+553,209540,M,2013,Providence,Scranton,19MF
+554,195663,F,2013,Tulsa,Fargo,10MF
+555,126371,M,2013,Eugene,Detroit,14MF
+556,75319,M,2013,Scranton,Scranton,19MF
+557,105506,F,2013,Detroit,Nashville,19MF
+558,171406,F,2013,Los Angeles,Indianapolis,19MF
+559,174464,F,2013,Providence,Detroit,14MF
+560,202696,M,2013,Eugene,Fargo,19MF
+561,6492,F,2013,Providence,Fargo,19MF
+562,105018,M,2013,Providence,Indianapolis,14MF
+563,11822,F,2013,Providence,Nashville,10MF
+564,155864,M,2013,Scranton,Fargo,19MF
+565,114908,F,2013,Miami,Nashville,10MF
+566,99798,F,2013,Eugene,Nashville,14MF
+567,57791,M,2013,St. Paul,Scranton,19MF
+568,73119,F,2013,Providence,Newark,19MF
+569,157472,F,2013,Los Angeles,Indianapolis,14MF
+570,46066,F,2013,Dallas,Charleston,19MF
+571,93970,M,2013,Boise,Fargo,19MF
+572,108601,F,2013,Providence,Fargo,19MF
+573,22360,F,2013,Providence,Scranton,19MF
+574,175819,M,2013,Columbus,Topeka,19MF
+575,54436,M,2013,Charleston,Detroit,19MF
+576,100785,M,2013,Columbus,Topeka,19MF
+577,159805,M,2013,Columbus,Topeka,19MF
+578,20757,M,2013,Dallas,Charleston,14MF
+579,185266,M,2013,Seattle,Detroit,19MF
+580,11463,M,2013,New York,Topeka,19MF
+581,49159,F,2013,Eugene,Scranton,14MF
+582,23081,F,2013,Providence,Indianapolis,19MF
+583,67740,M,2013,Dallas,Detroit,19MF
+584,104679,F,2013,Baltimore,Detroit,14MF
+585,116789,M,2013,Providence,Nashville,19MF
+586,37192,F,2013,Eugene,Fargo,19MF
+587,133597,F,2013,Eugene,Scranton,10MF
+588,107385,M,2013,Eugene,Charleston,19MF
+589,19768,M,2013,Eugene,Fargo,19MF
+590,211771,M,2013,Eugene,Topeka,19MF
+591,37982,F,2013,Providence,Charleston,10MF
+592,239,M,2013,Eugene,Topeka,19MF
+593,90622,M,2013,Los Angeles,Indianapolis,19MF
+594,84144,F,2013,Providence,Indianapolis,19MF
+595,194183,M,2013,Providence,Scranton,14MF
+596,182792,M,2013,Scranton,Newark,14MF
+597,135921,M,2013,Providence,Newark,19MF
+598,78554,F,2013,Los Angeles,Topeka,19MF
+599,23231,M,2013,Tulsa,Fargo,19MF
+600,212066,F,2013,Providence,Fargo,19MF
+601,156034,M,2013,Los Angeles,Charleston,14MF
+602,67085,M,2013,Providence,Charleston,19MF
+603,86702,M,2013,Providence,Fargo,9MF
+604,205311,F,2013,New York,Indianapolis,19MF
+605,183931,M,2013,Columbus,Detroit,19MF
+606,122945,F,2013,Newark,Fargo,19MF
+607,28274,M,2013,Indianapolis,Fargo,19MF
+608,141251,F,2013,Birmingham,Detroit,14MF
+609,27900,F,2013,Eugene,Indianapolis,19MF
+610,108721,F,2013,Providence,Charleston,19MF
+611,6796,F,2013,Providence,Nashville,19MF
+612,82883,M,2013,Providence,Topeka,14MF
+613,72402,F,2013,Eugene,Nashville,14MF
+614,115881,F,2013,Providence,Nashville,19MF
+615,127821,F,2013,Providence,Nashville,14MF
+616,80637,M,2013,Providence,Fargo,10MF
+617,181651,M,2013,Providence,Newark,19MF
+618,47970,M,2013,Providence,Indianapolis,19MF
+619,35171,M,2013,Providence,Newark,9MF
+620,137748,F,2013,Providence,Nashville,19MF
+621,182036,M,2013,Providence,Indianapolis,14MF
+622,107924,F,2013,Seattle,Fargo,14MF
+623,116806,F,2013,Providence,Nashville,10MF
+624,194379,M,2013,Scranton,Nashville,19MF
+625,36060,F,2013,Columbus,Topeka,14MF
+626,198696,F,2013,Providence,Topeka,14MF
+627,64184,M,2013,Tulsa,Nashville,19MF
+628,156863,F,2013,New York,Scranton,19MF
+629,190462,M,2013,Providence,Charleston,19MF
+630,66283,M,2013,Providence,Detroit,19MF
+631,115531,F,2013,Atlanta,Indianapolis,19MF
+632,206506,M,2013,Providence,Topeka,14MF
+633,213051,F,2013,Dallas,Charleston,19MF
+634,109328,F,2013,New Orleans,New Orleans,19MF
+635,35228,M,2013,Eugene,Fargo,19MF
+636,184275,M,2013,Providence,Fargo,
+637,148098,M,2013,New Orleans,Scranton,19MF
+638,30115,M,2013,Tulsa,Indianapolis,14MF
+639,34004,F,2013,Scranton,Newark,19MF
+640,189006,M,2013,Providence,Detroit,19MF
+641,106309,M,2013,New York,Indianapolis,14MF
+642,190580,F,2013,Baltimore,Fargo,19MF
+643,156046,F,2013,Baltimore,Scranton,19MF
+644,40764,M,2013,Dallas,Newark,19MF
+645,208004,F,2013,Providence,Nashville,19MF
+646,169979,F,2013,Detroit,Detroit,19MF
+647,19992,F,2013,Atlanta,Charleston,19MF
+648,116721,M,2013,Eugene,Detroit,19MF
+649,123669,M,2013,Providence,Indianapolis,19MF
+650,103586,F,2013,New York,Fargo,19MF
+651,542,M,2013,Providence,Nashville,19MF
+652,163943,M,2013,Providence,Charleston,19MF
+653,149193,M,2013,Detroit,Detroit,19MF
+654,144428,F,2014,New Orleans,Detroit,19MF
+655,90231,F,2014,Madison,Fargo,14MF
+656,28259,M,2014,Providence,Scranton,19MF
+657,27074,F,2014,Providence,Charleston,19MF
+658,185662,F,2014,Chicago,Nashville,19MF
+659,38111,F,2014,Madison,Fargo,19MF
+660,21626,F,2014,Baltimore,Scranton,19MF
+661,58591,F,2014,St. Louis,Detroit,19MF
+662,124263,M,2014,Hartford,Nashville,19MF
+663,47510,F,2014,Tulsa,Topeka,19MF
+664,86746,M,2014,Providence,Charleston,19MF
+665,118420,F,2014,Providence,Scranton,14MF
+666,71997,M,2014,Dayton,Newark,19MF
+667,102003,F,2014,New York,Charleston,19MF
+668,156127,M,2014,Providence,Charleston,14MF
+669,8866,F,2014,Tulsa,Detroit,14MF
+670,9033,M,2014,Hartford,Nashville,19MF
+671,93339,M,2014,Providence,Newark,10MF
+672,90918,M,2014,New Orleans,Newark,19MF
+673,172361,F,2014,Hartford,Nashville,19MF
+674,152525,F,2014,Madison,Newark,14MF
+675,49534,M,2014,Providence,Topeka,19MF
+676,146933,M,2014,Baltimore,Fargo,19MF
+677,25489,M,2014,Tulsa,Topeka,19MF
+678,134073,F,2014,St. Louis,Nashville,19MF
+679,133957,F,2014,New Orleans,Topeka,19MF
+680,164659,F,2014,St. Louis,Nashville,19MF
+681,63813,F,2014,Hartford,Indianapolis,19MF
+682,99471,F,2014,St. Louis,Detroit,19MF
+683,90037,F,2014,Baltimore,Detroit,19MF
+684,116385,F,2014,Madison,Detroit,14MF
+685,170342,M,2014,Hartford,Nashville,19MF
+686,134815,F,2014,Pittsburgh,Indianapolis,14MF
+687,210905,M,2014,Providence,Detroit,19MF
+688,120010,M,2014,Los Angeles,Detroit,19MF
+689,109788,F,2014,Chicago,Nashville,19MF
+690,59100,M,2014,Dayton,Newark,19MF
+691,12313,F,2014,Providence,Nashville,14MF
+692,12223,M,2014,Providence,Indianapolis,14MF
+693,158733,M,2014,Providence,Topeka,19MF
+694,81283,F,2014,Atlanta,Charleston,19MF
+695,144394,M,2014,Portland,Scranton,19MF
+696,135363,M,2014,Tulsa,Nashville,19MF
+697,43200,M,2014,Seattle,Fargo,19MF
+698,18665,F,2014,Detroit,Detroit,19MF
+699,156856,F,2014,New York,Scranton,19MF
+700,140177,F,2014,Madison,Fargo,19MF
+701,28012,M,2014,St. Paul,Topeka,19MF
+702,159911,M,2014,St. Louis,Scranton,19MF
+703,103961,F,2014,New Orleans,Newark,19MF
+704,46989,M,2014,Providence,Scranton,19MF
+705,144955,M,2014,Hartford,Detroit,19MF
+706,14691,M,2014,Providence,Indianapolis,14MF
+707,151310,F,2014,Madison,Scranton,19MF
+708,115976,M,2014,Nashville,Nashville,19MF
+709,131983,F,2014,New Orleans,Indianapolis,19MF
+710,139213,M,2014,Hartford,Nashville,19MF
+711,207611,M,2014,Dayton,Nashville,19MF
+712,53910,F,2014,Chicago,Nashville,19MF
+713,102065,M,2014,Pittsburgh,Nashville,14MF
+714,146647,M,2014,Madison,Detroit,19MF
+715,127151,F,2014,Hartford,Scranton,19MF
+716,194975,M,2014,Providence,Scranton,19MF
+717,124309,M,2014,Providence,Nashville,19MF
+718,151674,M,2014,Madison,Scranton,19MF
+719,102973,F,2014,Pittsburgh,Indianapolis,19MF
+720,654,M,2014,Pittsburgh,Indianapolis,19MF
+721,112506,M,2014,Tulsa,Topeka,19MF
+722,203593,F,2014,Santa Fe,Fargo,19MF
+723,198551,F,2014,New York,Scranton,19MF
+724,85832,M,2014,St. Louis,Nashville,19MF
+725,213235,M,2014,Portland,Indianapolis,19MF
+726,110315,M,2014,Madison,Fargo,19MF
+727,213791,M,2014,Portland,Detroit,19MF
+728,45139,M,2014,Madison,Fargo,19MF
+729,64523,F,2014,Tulsa,Detroit,14MF
+730,138206,F,2014,Los Angeles,Fargo,19MF
+731,175996,F,2014,Dayton,Newark,19MF
+732,69057,F,2014,Atlanta,Charleston,19MF
+733,205588,M,2014,Portland,Scranton,19MF
+734,89867,F,2014,Pittsburgh,Nashville,19MF
+735,13388,F,2014,Madison,Newark,19MF
+736,188656,M,2014,Dayton,Indianapolis,19MF
+737,105860,F,2014,Baltimore,Charleston,19MF
+738,29052,F,2014,New York,Newark,19MF
+739,30352,M,2014,St. Paul,Topeka,19MF
+740,146683,F,2014,Providence,Nashville,19MF
+741,105015,M,2014,Providence,Detroit,19MF
+742,173782,F,2014,New York,New York,19MF
+743,172092,M,2014,Seattle,Fargo,14MF
+744,54112,M,2014,Hartford,Nashville,14MF
+745,175207,M,2014,Providence,Topeka,14MF
+746,193811,M,2014,Providence,Detroit,19MF
+747,122172,M,2014,Dayton,Charleston,19MF
+748,47553,F,2014,St. Paul,Newark,19MF
+749,17159,M,2014,Dayton,Newark,10MF
+750,5816,F,2014,Pittsburgh,Newark,19MF
+751,36069,M,2014,Boise,Fargo,19MF
+752,84327,M,2014,Madison,Detroit,19MF
+753,169745,M,2014,Birmingham,Nashville,19MF
+754,186445,M,2014,Portland,Topeka,19MF
+755,164496,F,2014,Madison,Scranton,14MF
+756,77660,F,2014,Portland,Scranton,19MF
+757,47809,M,2014,Hartford,Nashville,19MF
+758,102246,F,2014,Dayton,Detroit,19MF
+759,143409,M,2014,New York,Detroit,19MF
+760,190621,F,2014,Madison,Topeka,19MF
+761,141471,F,2014,St. Paul,Newark,19MF
+762,120084,F,2014,Hartford,Nashville,19MF
+763,199257,M,2014,Tulsa,Topeka,19MF
+764,34148,M,2014,New Orleans,Fargo,19MF
+765,149574,F,2014,Dayton,Newark,14MF
+766,212501,M,2014,Hartford,Fargo,19MF
+767,191925,M,2014,Tulsa,Fargo,19MF
+768,38870,M,2014,Providence,Scranton,19MF
+769,74318,M,2014,Hartford,Indianapolis,19MF
+770,35779,M,2014,St. Paul,St. Paul,19MF
+771,98283,F,2014,Tulsa,Indianapolis,19MF
+772,213227,M,2014,Tulsa,Scranton,19MF
+773,130216,F,2014,Pittsburgh,Topeka,19MF
+774,20981,M,2014,St. Paul,Charleston,19MF
+775,6106,M,2014,Seattle,Fargo,14MF
+776,114017,M,2014,Providence,Detroit,19MF
+777,17253,M,2014,Providence,Detroit,19MF
+778,108266,F,2014,New York,Newark,19MF
+779,124507,M,2014,Tulsa,Detroit,19MF
+780,66203,M,2014,Detroit,Topeka,19MF
+781,94838,F,2014,Hartford,Indianapolis,19MF
+782,45210,F,2014,Dayton,Fargo,14MF
+783,178449,M,2014,Portland,Indianapolis,19MF
+784,127079,M,2014,Madison,Nashville,19MF
+785,106242,F,2014,Tulsa,Scranton,19MF
+786,78279,F,2014,Pittsburgh,Nashville,14MF
+787,195253,F,2014,Hartford,Detroit,19MF
+788,211482,M,2014,Providence,Detroit,19MF
+789,128845,F,2014,Seattle,Fargo,19MF
+790,9278,F,2014,Hartford,Scranton,14MF
+791,125946,M,2014,Hartford,Scranton,19MF
+792,81402,F,2014,Portland,Nashville,19MF
+793,16153,M,2014,New Orleans,Newark,19MF
+794,205308,M,2014,Portland,Detroit,19MF
+795,199449,M,2014,New Orleans,Nashville,14MF
+796,59026,M,2014,Providence,Scranton,19MF
+797,157116,M,2014,Baltimore,Newark,19MF
+798,71508,F,2014,St. Louis,Detroit,19MF
+799,144173,M,2014,Dayton,Newark,19MF
+800,147932,M,2014,Hartford,Indianapolis,19MF
+801,205576,M,2014,New York,Indianapolis,19MF
+802,179958,M,2014,Hartford,Scranton,19MF
+803,128344,F,2014,Baltimore,Indianapolis,19MF
+804,188398,F,2014,New Orleans,Indianapolis,19MF
+805,32274,M,2014,Tulsa,Scranton,14MF
+806,39750,F,2014,St. Louis,Detroit,19MF
+807,115463,F,2014,Providence,Indianapolis,14MF
+808,161664,F,2014,Atlanta,Detroit,14MF
+809,20262,F,2014,Madison,Newark,19MF
+810,101755,F,2014,Pittsburgh,Indianapolis,19MF
+811,166522,F,2014,Hartford,Topeka,19MF
+812,59911,F,2014,Madison,Fargo,14MF
+813,206088,M,2014,St. Louis,Detroit,19MF
+814,7136,F,2014,St. Louis,Indianapolis,14MF
+815,150581,F,2014,Hartford,Indianapolis,14MF
+816,2531,M,2014,Dayton,Topeka,14MF
+817,10118,M,2014,St. Paul,Topeka,19MF
+818,23536,M,2014,St. Louis,Scranton,19MF
+819,141187,M,2014,Chicago,Nashville,19MF
+820,77215,F,2014,Providence,Topeka,14MF
+821,174569,M,2014,Topeka,Newark,19MF
+822,20269,M,2014,St. Louis,Detroit,19MF
+823,153723,M,2014,Baltimore,Nashville,19MF
+824,48408,F,2014,Hartford,Indianapolis,19MF
+825,166120,M,2014,Portland,Charleston,19MF
+826,7655,F,2014,Hartford,Charleston,19MF
+827,67063,M,2014,Atlanta,Charleston,19MF
+828,212740,F,2014,Tulsa,Nashville,19MF
+829,88961,F,2014,Madison,Fargo,19MF
+830,65640,F,2014,Hartford,Detroit,19MF
+831,202483,F,2014,Hartford,Newark,19MF
+832,184677,M,2014,Atlanta,Charleston,19MF
+833,23615,M,2014,Providence,Detroit,19MF
+834,47967,M,2014,Tulsa,Topeka,19MF
+835,85449,M,2014,Madison,Nashville,19MF
+836,21621,F,2014,Detroit,Topeka,19MF
+837,189701,M,2014,Baltimore,Topeka,19MF
+838,59753,F,2014,St. Paul,Newark,19MF
+839,101205,M,2014,Providence,Scranton,14MF
+840,114162,M,2014,Atlanta,Charleston,19MF
+841,45098,M,2014,Providence,Topeka,14MF
+842,142404,M,2014,New York,Charleston,19MF
+843,136231,M,2014,Seattle,Fargo,19MF
+844,57058,F,2014,Los Angeles,Fargo,19MF
+845,186545,F,2014,Madison,Fargo,19MF
+846,122824,M,2014,Providence,Topeka,14MF
+847,195572,M,2014,Madison,Fargo,19MF
+848,133950,M,2014,Hartford,Indianapolis,14MF
+849,54376,M,2014,Birmingham,Nashville,19MF
+850,189020,F,2014,Tulsa,Scranton,19MF
+851,129906,M,2014,Providence,Nashville,19MF
+852,83515,F,2014,Hartford,Newark,19MF
+853,110854,F,2014,Providence,Detroit,19MF
+854,195481,M,2014,Chicago,Nashville,19MF
+855,9109,F,2014,Providence,Fargo,19MF
+856,189126,M,2014,St. Louis,Charleston,19MF
+857,70588,M,2014,Madison,Newark,19MF
+858,33700,M,2014,Baltimore,Newark,19MF
+859,85587,M,2014,Hartford,Scranton,19MF
+860,100039,M,2014,Hartford,Detroit,19MF
+861,212834,M,2014,St. Louis,Detroit,19MF
+862,17942,M,2014,Pittsburgh,Indianapolis,19MF
+863,68374,F,2014,Providence,Indianapolis,10MF
+864,177126,M,2014,Hartford,Fargo,19MF
+865,44304,F,2014,Madison,Fargo,19MF
+866,212399,M,2014,New Orleans,Nashville,19MF
+867,182028,M,2014,St. Louis,Detroit,14MF
+868,52272,M,2014,Providence,Scranton,14MF
+869,32828,F,2014,Dayton,Charleston,14MF
+870,186247,M,2014,Providence,Charleston,14MF
+871,202409,F,2014,St. Louis,Scranton,19MF
+872,143540,F,2014,Chicago,Nashville,19MF
+873,173328,M,2014,Providence,Detroit,19MF
+874,157660,M,2014,Hartford,Nashville,19MF
+875,101264,F,2014,Madison,Fargo,19MF
+876,113611,M,2014,Miami,Fargo,19MF
+877,39616,M,2014,Detroit,Indianapolis,19MF
+878,110784,M,2014,Chicago,Charleston,19MF
+879,18784,M,2014,Birmingham,Nashville,14MF
+880,205362,F,2014,Pittsburgh,Nashville,19MF
+881,46862,M,2014,Madison,Fargo,14MF
+882,162189,M,2014,St. Louis,Newark,19MF
+883,129571,F,2014,Pittsburgh,Indianapolis,14MF
+884,84767,M,2014,Baltimore,Fargo,19MF
+885,74327,M,2014,St. Louis,Newark,19MF
+886,12964,F,2014,Charleston,Indianapolis,19MF
+887,125426,F,2014,Nashville,Topeka,14MF
+888,36047,M,2014,Providence,Scranton,19MF
+889,161089,F,2014,Madison,Newark,19MF
+890,30266,F,2014,St. Louis,Newark,19MF
+891,128411,M,2014,Tulsa,Scranton,14MF
+892,8466,F,2014,Madison,Charleston,19MF
+893,183427,M,2014,Baltimore,Charleston,19MF
+894,143156,M,2014,Baltimore,Fargo,19MF
+895,30968,M,2014,New Orleans,Nashville,19MF
+896,130830,F,2014,Portland,Topeka,14MF
+897,202188,F,2014,Pittsburgh,Scranton,19MF
+898,49975,F,2014,New Orleans,Topeka,19MF
+899,82169,F,2014,St. Louis,Charleston,19MF
+900,178372,M,2014,Hartford,Topeka,19MF
+901,24688,F,2014,Providence,Scranton,19MF
+902,214595,F,2014,St. Paul,Topeka,19MF
+903,54617,F,2014,Madison,Fargo,19MF
+904,156201,F,2014,Fargo,Fargo,19MF
+905,142812,M,2014,Seattle,Fargo,19MF
+906,141432,F,2014,St. Paul,Topeka,19MF
+907,15098,M,2014,St. Louis,Newark,19MF
+908,173430,F,2014,Pittsburgh,Topeka,10MF
+909,63517,F,2014,Madison,Charleston,19MF
+910,95945,M,2014,New York,Indianapolis,19MF
+911,45006,M,2014,St. Paul,Newark,19MF
+912,71948,M,2014,Providence,Newark,19MF
+913,50222,F,2014,Madison,Newark,19MF
+914,154573,F,2014,Portland,Scranton,19MF
+915,183434,M,2014,St. Louis,Detroit,19MF
+916,96079,F,2014,Atlanta,Charleston,14MF
+917,17167,M,2014,Portland,Scranton,19MF
+918,110661,M,2014,Providence,Scranton,14MF
+919,131032,M,2014,Chicago,Nashville,19MF
+920,106585,F,2014,Tulsa,Scranton,19MF
+921,17930,M,2014,Providence,Newark,19MF
+922,32740,M,2014,Hartford,Newark,19MF
+923,29305,F,2014,Chicago,Nashville,19MF
+924,97339,M,2014,Hartford,Nashville,14MF
+925,29490,F,2014,New Orleans,Fargo,19MF
+926,25842,F,2014,Chicago,Nashville,19MF
+927,2796,M,2014,Providence,Indianapolis,19MF
+928,209803,M,2014,Atlanta,Charleston,19MF
+929,88540,M,2014,St. Louis,Detroit,19MF
+930,157966,F,2014,Atlanta,Charleston,19MF
+931,6456,F,2014,Portland,Scranton,19MF
+932,46083,F,2014,Atlanta,Charleston,10MF
+933,18882,M,2014,Tulsa,Charleston,14MF
+934,12673,M,2014,New Orleans,Fargo,10MF
+935,27185,M,2014,Seattle,Fargo,19MF
+936,14679,M,2014,Baltimore,Fargo,14MF
+937,129221,M,2014,Providence,Nashville,14MF
+938,95959,M,2014,Chicago,Nashville,19MF
+939,57194,F,2014,Dayton,Newark,14MF
+940,60605,F,2014,Baltimore,Fargo,19MF
+941,213400,F,2014,Chicago,Nashville,19MF
+942,60636,F,2014,Baltimore,Indianapolis,19MF
+943,128178,F,2014,Madison,Topeka,19MF
+944,112832,F,2014,Providence,Charleston,14MF
+945,120330,M,2014,Hartford,Nashville,14MF
+946,201643,M,2014,Madison,Newark,19MF
+947,19337,F,2014,Pittsburgh,Indianapolis,19MF
+948,158858,M,2014,Baltimore,Detroit,19MF
+949,136734,F,2014,Dayton,Newark,19MF
+950,87882,F,2014,Hartford,Topeka,19MF
+951,115978,M,2014,Pittsburgh,Indianapolis,14MF
+952,21765,M,2014,Portland,Indianapolis,19MF
+953,123427,M,2014,Madison,Charleston,19MF
+954,64415,M,2014,Chicago,Nashville,19MF
+955,170202,M,2014,Tulsa,Topeka,19MF
+956,560,M,2014,Tulsa,Scranton,19MF
+957,110454,F,2014,Topeka,Scranton,19MF
+958,7584,F,2014,Hartford,Newark,19MF
+959,177150,M,2014,Tulsa,Detroit,14MF
+960,60620,F,2014,Hartford,Scranton,19MF
+961,46508,M,2014,Madison,Fargo,19MF
+962,37468,F,2014,Pittsburgh,Topeka,14MF
+963,191589,M,2014,Dayton,Newark,14MF
+964,151748,M,2014,St. Louis,Charleston,19MF
+965,118293,M,2014,Providence,Nashville,14MF
+966,170576,F,2014,St. Louis,Detroit,19MF
+967,49353,M,2014,Tulsa,Topeka,19MF
+968,209136,F,2014,Baltimore,Indianapolis,19MF
+969,91475,F,2014,Newark,Indianapolis,19MF
+970,167362,F,2014,Portland,Nashville,14MF
+971,29974,M,2014,Detroit,Indianapolis,19MF
+972,213706,M,2014,Pittsburgh,Indianapolis,19MF
+973,96692,F,2014,Providence,Detroit,19MF
+974,31230,F,2014,Providence,Charleston,14MF
+975,75833,M,2014,Tulsa,Detroit,9MF
+976,11462,F,2014,Tulsa,Nashville,19MF
+977,107440,F,2014,Madison,Indianapolis,19MF
+978,36575,F,2014,Providence,Detroit,19MF
+979,91294,F,2014,New Orleans,Charleston,19MF
+980,63365,F,2014,Chicago,Nashville,19MF
+981,69572,F,2014,Hartford,Charleston,19MF
+982,162924,M,2014,Chicago,Nashville,19MF
+983,183326,M,2014,Providence,Detroit,19MF
+984,9231,F,2014,St. Paul,Scranton,19MF
+985,127240,F,2014,Providence,Detroit,14MF
+986,78171,F,2014,Tulsa,Scranton,14MF
+987,71428,F,2014,Baltimore,Scranton,14MF
+988,55800,F,2014,Madison,Detroit,19MF
+989,5724,M,2014,Baltimore,Topeka,19MF
+990,165261,F,2014,Madison,Fargo,19MF
+991,18364,F,2014,Chicago,Nashville,19MF
+992,1999,F,2014,Hartford,Newark,19MF
+993,164611,F,2014,Baltimore,Detroit,19MF
+994,4450,M,2014,St. Louis,Newark,19MF
+995,37389,F,2014,Scranton,Nashville,19MF
+996,212371,M,2014,Baltimore,Charleston,19MF
+997,181321,F,2014,St. Paul,Topeka,19MF
+998,109656,F,2014,New Orleans,Detroit,19MF
+999,147681,M,2014,Providence,Nashville,19MF
+1000,204636,F,2014,Madison,Fargo,19MF
+1001,55293,M,2014,Madison,Fargo,19MF
+1002,68668,F,2014,Madison,Topeka,19MF
+1003,200739,F,2014,Tulsa,Nashville,14MF
+1004,184579,M,2014,Hartford,Fargo,14MF
+1005,176732,F,2014,Seattle,Fargo,14MF
+1006,122768,F,2014,Dayton,Newark,19MF
+1007,204192,F,2014,Pittsburgh,Indianapolis,19MF
+1008,91076,F,2014,Madison,Fargo,19MF
+1009,199343,F,2014,Chicago,Nashville,19MF
+1010,168099,M,2014,Madison,Fargo,19MF
+1011,192449,F,2014,Madison,Fargo,21MF
+1012,62429,M,2014,Providence,Topeka,19MF
+1013,178,M,2014,Providence,Indianapolis,14MF
+1014,75762,F,2014,Baltimore,Indianapolis,19MF
+1015,139280,M,2014,Providence,Indianapolis,19MF
+1016,26463,F,2014,Dallas,Indianapolis,19MF
+1017,97324,F,2014,Madison,Newark,19MF
+1018,33572,F,2014,New York,Newark,19MF
+1019,93423,F,2014,Pittsburgh,Indianapolis,14MF
+1020,16634,M,2014,Pittsburgh,Indianapolis,19MF
+1021,76714,M,2014,Providence,Charleston,19MF
+1022,187825,M,2014,Providence,Scranton,19MF
+1023,156944,M,2014,Dayton,Charleston,19MF
+1024,164783,M,2014,Providence,Newark,19MF
+1025,80872,M,2014,Portland,Indianapolis,19MF
+1026,28487,F,2014,Atlanta,Charleston,19MF
+1027,147076,M,2014,Chicago,Indianapolis,19MF
+1028,56154,M,2014,Pittsburgh,Indianapolis,19MF
+1029,68769,M,2014,Hartford,Indianapolis,19MF
+1030,24988,M,2014,Providence,Detroit,19MF
+1031,19024,M,2014,Providence,Detroit,19MF
+1032,134452,F,2014,Providence,Detroit,14MF
+1033,204797,F,2014,Chicago,Nashville,19MF
+1034,111127,M,2014,St. Louis,Newark,19MF
+1035,120722,F,2014,Madison,Newark,19MF
+1036,1306,F,2014,Providence,Nashville,19MF
+1037,191404,M,2014,Pittsburgh,Indianapolis,19MF
+1038,158771,M,2014,New Orleans,Charleston,14MF
+1039,138238,M,2014,Baltimore,Topeka,19MF
+1040,174044,M,2014,Hartford,Detroit,19MF
+1041,124013,F,2014,Providence,Detroit,19MF
+1042,4885,M,2014,Madison,Fargo,19MF
+1043,214029,M,2014,St. Paul,Topeka,19MF
+1044,93060,F,2014,Los Angeles,Topeka,19MF
+1045,74856,F,2014,Detroit,Topeka,19MF
+1046,8758,F,2014,Tulsa,Nashville,19MF
+1047,70749,F,2014,Seattle,Fargo,19MF
+1048,118181,F,2014,Hartford,Scranton,19MF
+1049,51328,M,2014,Dayton,Indianapolis,19MF
+1050,171987,M,2014,Pittsburgh,Indianapolis,19MF
+1051,104954,F,2014,Providence,Nashville,19MF
+1052,25932,F,2014,Providence,Topeka,19MF
+1053,96648,M,2014,Chicago,Nashville,19MF
+1054,64212,F,2014,Madison,Topeka,19MF
+1055,38868,F,2014,Seattle,Fargo,19MF
+1056,83144,F,2014,New Orleans,Topeka,19MF
+1057,177818,M,2014,Madison,Fargo,14MF
+1058,206934,F,2014,Atlanta,Charleston,19MF
+1059,166822,F,2014,St. Louis,Detroit,19MF
+1060,127604,F,2014,Chicago,Nashville,19MF
+1061,23959,M,2014,Tulsa,Topeka,19MF
+1062,96463,F,2014,Tulsa,Charleston,19MF
+1063,52143,F,2014,Tulsa,Scranton,19MF
+1064,31832,M,2014,Tulsa,Charleston,19MF
+1065,11523,F,2014,Tulsa,Nashville,19MF
+1066,582,F,2014,Portland,Newark,19MF
+1067,107087,M,2014,Providence,Scranton,19MF
+1068,5687,M,2014,Providence,Scranton,19MF
+1069,203725,F,2014,Dayton,Charleston,14MF
+1070,82493,F,2014,Madison,Fargo,19MF
+1071,200940,M,2014,Madison,Charleston,19MF
+1072,189167,F,2014,Seattle,Fargo,19MF
+1073,128678,F,2014,St. Louis,Detroit,19MF
+1074,176875,F,2014,Chicago,Nashville,19MF
+1075,28147,M,2014,Hartford,Newark,19MF
+1076,34975,M,2014,Chicago,Nashville,19MF
+1077,161508,F,2014,Seattle,Fargo,14MF
+1078,25754,M,2014,Chicago,Topeka,19MF
+1079,61358,M,2014,Portland,Indianapolis,19MF
+1080,13148,F,2014,Providence,Topeka,19MF
+1081,212232,M,2014,Providence,Nashville,19MF
+1082,97315,M,2014,St. Louis,St. Louis,19MF
+1083,47111,M,2014,Madison,Topeka,19MF
+1084,8321,F,2014,Providence,Fargo,19MF
+1085,181636,M,2014,Providence,Topeka,19MF
+1086,31664,F,2014,Baltimore,Indianapolis,10MF
+1087,183204,F,2014,Portland,Detroit,19MF
+1088,147342,F,2014,Chicago,Nashville,19MF
+1089,92291,M,2014,Hartford,Scranton,19MF
+1090,46180,F,2014,Portland,Nashville,19MF
+1091,59046,M,2014,Atlanta,Charleston,19MF
+1092,93635,F,2014,Tulsa,Scranton,19MF
+1093,186260,M,2014,Pittsburgh,Indianapolis,19MF
+1094,1434,M,2014,Providence,Charleston,19MF
+1095,15159,F,2014,Madison,Scranton,19MF
+1096,87294,F,2014,Pittsburgh,Indianapolis,19MF
+1097,190863,F,2014,Tulsa,Fargo,19MF
+1098,41096,F,2014,Atlanta,Charleston,19MF
+1099,107014,M,2014,Seattle,Fargo,19MF
+1100,111270,F,2014,St. Louis,Indianapolis,19MF
+1101,38984,M,2014,Providence,Charleston,14MF
+1102,147951,F,2014,Tulsa,Scranton,14MF
+1103,44482,F,2014,Madison,Scranton,19MF
+1104,98290,M,2014,Madison,Charleston,14MF
+1105,214656,M,2014,Madison,Fargo,19MF
+1106,31451,M,2014,Birmingham,Nashville,19MF
+1107,26646,M,2014,Madison,Nashville,19MF
+1108,85243,F,2014,Atlanta,Charleston,19MF
+1109,214288,F,2014,Madison,Newark,14MF
+1110,158482,F,2014,New Orleans,Topeka,9MF
+1111,98097,F,2014,Madison,Fargo,19MF
+1112,148317,F,2014,Hartford,Nashville,19MF
+1113,70062,F,2014,Hartford,Indianapolis,14MF
+1114,141631,F,2014,Dayton,Detroit,19MF
+1115,128067,F,2014,Tulsa,Indianapolis,14MF
+1116,16479,F,2014,Hartford,Scranton,19MF
+1117,197514,M,2014,Baltimore,Nashville,19MF
+1118,146227,M,2014,Atlanta,Charleston,19MF
+1119,136028,M,2014,New Orleans,Charleston,14MF
+1120,158887,M,2014,Scranton,Indianapolis,19MF
+1121,31316,F,2014,Atlanta,Charleston,19MF
+1122,39384,F,2014,Tulsa,Indianapolis,10MF
+1123,67846,M,2014,Providence,Newark,19MF
+1124,180704,M,2014,Los Angeles,Newark,19MF
+1125,16978,F,2014,Seattle,Fargo,19MF
+1126,99613,F,2014,Madison,Fargo,14MF
+1127,192455,M,2014,Providence,Charleston,14MF
+1128,93117,M,2014,Detroit,Indianapolis,19MF
+1129,49485,F,2014,Indianapolis,Nashville,19MF
+1130,103641,F,2014,Baltimore,Nashville,19MF
+1131,139761,M,2014,Hartford,Scranton,19MF
+1132,44891,M,2014,Madison,Charleston,19MF
+1133,199036,F,2014,St. Paul,Topeka,19MF
+1134,1526,M,2014,Hartford,Scranton,19MF
+1135,13482,F,2014,Dayton,Newark,14MF
+1136,134057,F,2014,Portland,Scranton,14MF
+1137,198843,M,2014,Dayton,Indianapolis,19MF
+1138,214242,F,2014,Pittsburgh,Detroit,14MF
+1139,33944,M,2014,Seattle,Fargo,14MF
+1140,208617,M,2014,Portland,Topeka,19MF
+1141,64978,M,2014,Baltimore,Newark,19MF
+1142,94439,F,2014,St. Louis,Detroit,19MF
+1143,191014,F,2014,Tulsa,Nashville,19MF
+1144,19117,M,2015,Fargo,Fargo,19MF
+1145,67689,F,2015,Nashville,Nashville,19MF
+1146,207472,M,2015,Nashville,Nashville,19MF
+1147,47138,M,2015,Nashville,Nashville,19MF
+1148,31945,F,2015,Scranton,Scranton,19MF
+1149,177888,M,2015,Detroit,Detroit,19MF
+1150,146744,M,2015,Topeka,Topeka,19MF
+1151,79888,M,2015,Charleston,Charleston,19MF
+1152,188862,F,2015,Fargo,Fargo,19MF
+1153,207286,F,2015,Fargo,Fargo,19MF
+1154,196130,M,2015,Indianapolis,Indianapolis,19MF
+1155,141801,M,2015,Topeka,Topeka,19MF
+1156,41034,M,2015,Newark,Newark,19MF
+1157,122927,F,2015,Charleston,Charleston,19MF
+1158,74724,M,2015,Topeka,Topeka,19MF
+1159,30129,F,2015,Newark,Newark,19MF
+1160,43234,F,2015,Fargo,Fargo,19MF
+1161,150756,F,2015,Scranton,Scranton,19MF
+1162,81739,F,2015,Nashville,Nashville,19MF
+1163,106268,F,2015,Newark,Newark,19MF
+1164,152269,M,2015,Scranton,Scranton,19MF
+1165,144030,F,2015,Fargo,Fargo,19MF
+1166,44814,F,2015,Nashville,Nashville,19MF
+1167,18961,F,2015,Charleston,Charleston,19MF
+1168,211187,M,2015,Fargo,Fargo,19MF
+1169,172173,F,2015,Detroit,Detroit,19MF
+1170,39467,F,2015,Topeka,Topeka,19MF
+1171,122639,M,2015,Topeka,Topeka,19MF
+1172,124407,F,2015,Indianapolis,Indianapolis,19MF
+1173,171543,M,2015,Detroit,Detroit,19MF
+1174,38062,M,2015,Nashville,Nashville,19MF
+1175,97506,F,2015,Indianapolis,Indianapolis,19MF
+1176,23853,F,2015,Newark,Newark,19MF
+1177,148733,F,2015,Scranton,Scranton,19MF
+1178,96242,M,2015,Charleston,Charleston,19MF
+1179,80785,M,2015,Nashville,Nashville,19MF
+1180,105359,M,2015,Fargo,Fargo,19MF
+1181,134900,F,2015,Detroit,Detroit,19MF
+1182,118391,F,2015,Topeka,Topeka,19MF
+1183,49755,F,2015,Detroit,Detroit,19MF
+1184,113793,M,2015,Detroit,Detroit,19MF
+1185,171630,F,2015,Nashville,Nashville,19MF
+1186,19554,F,2015,Newark,Newark,19MF
+1187,113610,M,2015,Indianapolis,Indianapolis,19MF
+1188,94755,F,2015,Scranton,Scranton,19MF
+1189,108502,F,2015,Indianapolis,Indianapolis,19MF
+1190,166414,M,2015,Topeka,Topeka,19MF
+1191,146997,F,2015,Fargo,Fargo,19MF
+1192,66935,M,2015,Fargo,Fargo,19MF
+1193,195457,F,2015,Charleston,Charleston,19MF
+1194,166383,M,2015,Scranton,Scranton,19MF
+1195,172329,M,2015,Indianapolis,Indianapolis,19MF
+1196,158021,M,2015,Indianapolis,Indianapolis,19MF
+1197,99395,F,2015,Fargo,Fargo,19MF
+1198,189566,F,2015,Charleston,Charleston,19MF
+1199,71968,M,2015,Indianapolis,Indianapolis,19MF
+1200,107907,M,2015,Newark,Newark,19MF
+1201,144128,M,2015,Topeka,Topeka,19MF
+1202,178604,M,2015,Newark,Newark,19MF
+1203,179931,F,2015,Fargo,Fargo,19MF
+1204,5011,F,2015,Scranton,Scranton,19MF
+1205,20060,F,2015,Scranton,Scranton,19MF
+1206,82683,M,2015,Nashville,Nashville,19MF
+1207,149689,M,2015,Scranton,Scranton,19MF
+1208,33960,F,2015,Charleston,Charleston,19MF
+1209,190232,M,2015,Scranton,Scranton,19MF
+1210,95500,M,2015,Fargo,Fargo,19MF
+1211,146420,M,2015,Nashville,Nashville,19MF
+1212,74127,M,2015,Charleston,Charleston,19MF
+1213,132627,M,2015,Charleston,Charleston,19MF
+1214,168126,F,2015,Newark,Newark,19MF
+1215,168222,M,2015,Newark,Newark,19MF
+1216,182850,M,2015,Indianapolis,Indianapolis,19MF
+1217,184656,F,2015,Newark,Newark,19MF
+1218,135940,F,2015,Nashville,Nashville,19MF
+1219,31018,M,2015,Charleston,Charleston,19MF
+1220,70402,M,2015,Scranton,Scranton,19MF
+1221,110190,F,2015,Fargo,Fargo,19MF
+1222,140754,M,2015,Charleston,Charleston,19MF
+1223,136564,F,2015,Detroit,Detroit,19MF
+1224,25737,M,2015,Newark,Newark,19MF
+1225,193007,M,2015,Charleston,Charleston,19MF
+1226,55096,F,2015,Charleston,Charleston,19MF
+1227,16778,M,2015,Scranton,Scranton,19MF
+1228,136220,M,2015,Scranton,Scranton,19MF
+1229,178695,F,2015,Indianapolis,Indianapolis,19MF
+1230,1846,F,2015,Scranton,Scranton,19MF
+1231,110514,M,2015,Indianapolis,Indianapolis,19MF
+1232,194326,M,2015,Fargo,Fargo,19MF
+1233,129134,F,2015,Charleston,Charleston,19MF
+1234,48822,M,2015,Newark,Newark,19MF
+1235,212564,M,2015,Detroit,Detroit,19MF
+1236,80874,F,2015,Fargo,Fargo,19MF
+1237,24584,F,2015,Charleston,Charleston,19MF
+1238,161812,F,2015,Nashville,Nashville,19MF
+1239,164135,M,2015,Nashville,Nashville,19MF
+1240,175509,F,2015,Topeka,Topeka,19MF
+1241,170687,F,2015,Nashville,Nashville,19MF
+1242,120898,F,2015,Topeka,Topeka,19MF
+1243,181658,M,2015,Fargo,Fargo,19MF
+1244,138798,M,2015,Detroit,Detroit,19MF
+1245,147046,F,2015,Nashville,Nashville,19MF
+1246,127693,M,2015,Fargo,Fargo,19MF
+1247,143014,F,2015,Newark,Newark,19MF
+1248,92387,F,2015,Charleston,Charleston,19MF
+1249,147579,M,2015,Indianapolis,Indianapolis,19MF
+1250,59504,M,2015,Topeka,Topeka,19MF
+1251,134723,F,2015,Detroit,Detroit,19MF
+1252,55684,F,2015,Topeka,Topeka,19MF
+1253,91786,F,2015,Detroit,Detroit,19MF
+1254,94196,F,2015,Indianapolis,Indianapolis,19MF
+1255,90672,F,2015,Nashville,Nashville,19MF
+1256,66968,M,2015,Indianapolis,Indianapolis,19MF
+1257,192107,M,2015,Indianapolis,Indianapolis,19MF
+1258,21149,M,2015,Topeka,Topeka,19MF
+1259,23938,F,2015,Nashville,Nashville,19MF
+1260,96825,M,2015,Topeka,Topeka,19MF
+1261,201024,F,2015,Scranton,Scranton,19MF
+1262,132102,F,2015,Detroit,Detroit,19MF
+1263,83753,F,2015,Detroit,Detroit,19MF
+1264,118813,M,2015,Fargo,Fargo,19MF
+1265,73733,M,2015,Indianapolis,Indianapolis,19MF
+1266,137692,M,2015,Nashville,Nashville,19MF
+1267,9342,M,2015,Topeka,Topeka,19MF
+1268,77059,F,2015,Indianapolis,Indianapolis,19MF
+1269,423,F,2015,Newark,Newark,19MF
+1270,12382,M,2015,Topeka,Topeka,19MF
+1271,68867,M,2015,Topeka,Topeka,19MF
+1272,68818,F,2015,Indianapolis,Indianapolis,19MF
+1273,204482,M,2015,Charleston,Charleston,19MF
+1274,201628,F,2015,Charleston,Charleston,19MF
+1275,153941,F,2015,Detroit,Detroit,19MF
+1276,65310,F,2015,Scranton,Scranton,19MF
+1277,124564,F,2015,Detroit,Detroit,19MF
+1278,81114,F,2015,Newark,Newark,19MF
+1279,49963,M,2015,Fargo,Fargo,19MF
+1280,81276,M,2015,Fargo,Fargo,19MF
+1281,163704,F,2015,Indianapolis,Indianapolis,19MF
+1282,188987,M,2015,Scranton,Scranton,19MF
+1283,155198,M,2015,Detroit,Detroit,19MF
+1284,40919,M,2015,Indianapolis,Indianapolis,19MF
+1285,17527,F,2015,Scranton,Scranton,19MF
+1286,143925,M,2015,Nashville,Nashville,19MF
+1287,74230,F,2015,Indianapolis,Indianapolis,19MF
+1288,109770,M,2015,Indianapolis,Indianapolis,19MF
+1289,105514,F,2015,Indianapolis,Indianapolis,19MF
+1290,72669,F,2015,Fargo,Fargo,19MF
+1291,87145,M,2015,Indianapolis,Indianapolis,19MF
+1292,65683,M,2015,Scranton,Scranton,19MF
+1293,103835,M,2015,Nashville,Nashville,19MF
+1294,97759,F,2015,Detroit,Detroit,19MF
+1295,177753,F,2015,Indianapolis,Indianapolis,19MF
+1296,131801,M,2015,Newark,Newark,19MF
+1297,4619,F,2015,Detroit,Detroit,19MF
+1298,195934,F,2015,Nashville,Nashville,19MF
+1299,213361,F,2015,Detroit,Detroit,19MF
+1300,200927,M,2015,Nashville,Nashville,19MF
+1301,176102,F,2015,Topeka,Topeka,19MF
+1302,105940,M,2015,Detroit,Detroit,19MF
+1303,11660,F,2015,Nashville,Nashville,19MF
+1304,137695,M,2015,Newark,Newark,19MF
+1305,40684,F,2015,Topeka,Topeka,19MF
+1306,110002,F,2015,Topeka,Topeka,19MF
+1307,12089,M,2015,Fargo,Fargo,19MF
+1308,122469,M,2015,Indianapolis,Indianapolis,19MF
+1309,56148,M,2015,Indianapolis,Indianapolis,19MF
+1310,132131,F,2015,Newark,Newark,19MF
+1311,85005,F,2015,Detroit,Detroit,19MF
+1312,172761,F,2015,Charleston,Charleston,19MF
+1313,55171,F,2015,Topeka,Topeka,19MF
+1314,72490,F,2015,Charleston,Charleston,19MF
+1315,90700,M,2015,Charleston,Charleston,19MF
+1316,87864,F,2015,Detroit,Detroit,19MF
+1317,103058,F,2015,Nashville,Nashville,19MF
+1318,105292,M,2015,Charleston,Charleston,19MF
+1319,156479,M,2015,Topeka,Topeka,19MF
+1320,10847,M,2015,Topeka,Topeka,19MF
+1321,77054,M,2015,Newark,Newark,19MF
+1322,23166,F,2015,Newark,Newark,19MF
+1323,125263,M,2015,Newark,Newark,19MF
+1324,112552,M,2015,Newark,Newark,19MF
+1325,182131,F,2015,Topeka,Topeka,19MF
+1326,77119,F,2015,Fargo,Fargo,19MF
+1327,7244,M,2015,Scranton,Scranton,19MF
+1328,196223,F,2015,Indianapolis,Indianapolis,19MF
+1329,85705,M,2015,Indianapolis,Indianapolis,19MF
+1330,71279,F,2015,Fargo,Fargo,19MF
+1331,192194,F,2015,Topeka,Topeka,19MF
+1332,196782,M,2015,Detroit,Detroit,19MF
+1333,22286,F,2015,Indianapolis,Indianapolis,19MF
+1334,116377,F,2015,Scranton,Scranton,19MF
+1335,45978,M,2015,Nashville,Nashville,19MF
+1336,126051,F,2015,Scranton,Scranton,19MF
+1337,60649,F,2015,Indianapolis,Indianapolis,19MF
+1338,208070,M,2015,Topeka,Topeka,19MF
+1339,2001,M,2015,Fargo,Fargo,19MF
+1340,71220,F,2015,Detroit,Detroit,19MF
+1341,191307,F,2015,Newark,Newark,19MF
+1342,103629,M,2015,Detroit,Detroit,19MF
+1343,90507,M,2015,Newark,Newark,19MF
+1344,206832,F,2015,Topeka,Topeka,19MF
+1345,52337,F,2015,Newark,Newark,19MF
+1346,90703,F,2015,Scranton,Scranton,19MF
+1347,192886,F,2015,Scranton,Scranton,19MF
+1348,79948,M,2015,Charleston,Charleston,19MF
+1349,51193,M,2015,Fargo,Fargo,19MF
+1350,109998,M,2015,Charleston,Charleston,19MF
+1351,82146,F,2015,Charleston,Charleston,19MF
+1352,190772,M,2015,Fargo,Fargo,19MF
+1353,141958,F,2015,Charleston,Charleston,19MF
+1354,78968,M,2015,Indianapolis,Indianapolis,19MF
+1355,33427,F,2015,Fargo,Fargo,19MF
+1356,84572,F,2015,Fargo,Fargo,19MF
+1357,126150,M,2015,Indianapolis,Indianapolis,19MF
+1358,188538,M,2015,Fargo,Fargo,19MF
+1359,66121,M,2015,Detroit,Detroit,19MF
+1360,201194,M,2015,Nashville,Nashville,19MF
+1361,7249,F,2015,Fargo,Fargo,19MF
+1362,107305,M,2015,Indianapolis,Indianapolis,19MF
+1363,46330,F,2015,Newark,Newark,19MF
+1364,204871,M,2015,Topeka,Topeka,19MF
+1365,55831,F,2015,Indianapolis,Indianapolis,19MF
+1366,39213,M,2015,Scranton,Scranton,19MF
+1367,184455,M,2015,Nashville,Nashville,19MF
+1368,83051,F,2015,Charleston,Charleston,19MF
+1369,27451,M,2015,Charleston,Charleston,19MF
+1370,151036,M,2015,Charleston,Charleston,19MF
+1371,164813,F,2015,Nashville,Nashville,19MF
+1372,105426,F,2015,Indianapolis,Indianapolis,19MF
+1373,86157,M,2015,Detroit,Detroit,19MF
+1374,156078,M,2015,Nashville,Nashville,19MF
+1375,201582,M,2015,Fargo,Fargo,19MF
+1376,61357,F,2015,Nashville,Nashville,19MF
+1377,85329,M,2015,Indianapolis,Indianapolis,19MF
+1378,95535,F,2015,Charleston,Charleston,19MF
+1379,51695,M,2015,Newark,Newark,19MF
+1380,197823,F,2015,Fargo,Fargo,19MF
+1381,30222,F,2015,Topeka,Topeka,19MF
+1382,63588,M,2015,Nashville,Nashville,19MF
+1383,17939,M,2015,Detroit,Detroit,19MF
+1384,33557,F,2015,Scranton,Scranton,19MF
+1385,87160,M,2015,Detroit,Detroit,19MF
+1386,49541,M,2015,Indianapolis,Indianapolis,19MF
+1387,77581,F,2015,Nashville,Nashville,19MF
+1388,139320,F,2015,Detroit,Detroit,19MF
+1389,87004,F,2015,Fargo,Fargo,19MF
+1390,114683,M,2015,Detroit,Detroit,19MF
+1391,131094,M,2015,Detroit,Detroit,19MF
+1392,37994,M,2015,Charleston,Charleston,19MF
+1393,109472,F,2015,Topeka,Topeka,19MF
+1394,80467,F,2015,Charleston,Charleston,19MF
+1395,152038,F,2015,Indianapolis,Indianapolis,19MF
+1396,97612,F,2015,Newark,Newark,19MF
+1397,35735,M,2015,Indianapolis,Indianapolis,19MF
+1398,76719,M,2015,Scranton,Scranton,19MF
+1399,70630,F,2015,Newark,Newark,19MF
+1400,93859,F,2015,Indianapolis,Indianapolis,19MF
+1401,32999,F,2015,Detroit,Detroit,19MF
+1402,197259,F,2015,Indianapolis,Indianapolis,19MF
+1403,158324,F,2015,Newark,Newark,19MF
+1404,61123,F,2015,Indianapolis,Indianapolis,19MF
+1405,110658,F,2015,Nashville,Nashville,19MF
+1406,119309,M,2015,Fargo,Fargo,19MF
+1407,148447,F,2015,Indianapolis,Indianapolis,19MF
+1408,149419,M,2015,Fargo,Fargo,19MF
+1409,156869,F,2015,Charleston,Charleston,19MF
+1410,53739,M,2015,Indianapolis,Indianapolis,19MF
+1411,59869,M,2015,Charleston,Charleston,19MF
+1412,170023,F,2015,Charleston,Charleston,19MF
+1413,188119,F,2015,Fargo,Fargo,19MF
+1414,151312,M,2015,Scranton,Scranton,19MF
+1415,75114,F,2015,Charleston,Charleston,19MF
+1416,55900,F,2015,Nashville,Nashville,19MF
+1417,175650,M,2015,Charleston,Charleston,19MF
+1418,67852,M,2015,Detroit,Detroit,19MF
+1419,70793,F,2015,Topeka,Topeka,19MF
+1420,211760,F,2015,Topeka,Topeka,19MF
+1421,40538,M,2015,Topeka,Topeka,19MF
+1422,150699,M,2015,Topeka,Topeka,19MF
+1423,9728,F,2015,Topeka,Topeka,19MF
+1424,79125,F,2015,Nashville,Nashville,19MF
+1425,144257,M,2015,Topeka,Topeka,19MF
+1426,76116,M,2015,Detroit,Detroit,19MF
+1427,51805,M,2015,Newark,Newark,19MF
+1428,208029,M,2015,Fargo,Fargo,19MF
+1429,134838,M,2015,Scranton,Scranton,19MF
+1430,200728,M,2015,Scranton,Scranton,19MF
+1431,162068,F,2015,Nashville,Nashville,19MF
+1432,199039,F,2015,Nashville,Nashville,19MF
+1433,68537,M,2015,Scranton,Scranton,19MF
+1434,120903,M,2015,Detroit,Detroit,19MF
+1435,191898,F,2015,Nashville,Nashville,19MF
+1436,36835,F,2015,Charleston,Charleston,19MF
+1437,82318,M,2015,Detroit,Detroit,19MF
+1438,144819,M,2015,Detroit,Detroit,19MF
+1439,106476,M,2015,Charleston,Charleston,19MF
+1440,192062,F,2015,Charleston,Charleston,19MF
+1441,152761,M,2015,Nashville,Nashville,19MF
+1442,189867,M,2015,Fargo,Fargo,19MF
+1443,11023,M,2015,Scranton,Scranton,19MF
+1444,160756,F,2015,Topeka,Topeka,19MF
+1445,31511,M,2015,Topeka,Topeka,19MF
+1446,156327,F,2015,Fargo,Fargo,19MF
+1447,90299,F,2015,Newark,Newark,19MF
+1448,78126,F,2015,Topeka,Topeka,19MF
+1449,50513,M,2015,Fargo,Fargo,19MF
+1450,129993,M,2015,Detroit,Detroit,19MF
+1451,65883,F,2015,Nashville,Nashville,19MF
+1452,148736,M,2015,Charleston,Charleston,19MF
+1453,109350,F,2015,Topeka,Topeka,19MF
+1454,185085,F,2015,Scranton,Scranton,19MF
+1455,8453,M,2015,Detroit,Detroit,19MF
+1456,209290,F,2015,Detroit,Detroit,19MF
+1457,174154,F,2015,Nashville,Nashville,19MF
+1458,87204,F,2015,Topeka,Topeka,19MF
+1459,206605,F,2015,Nashville,Nashville,19MF
+1460,86799,F,2015,Indianapolis,Indianapolis,19MF
+1461,98232,F,2015,Indianapolis,Indianapolis,19MF
+1462,43765,M,2015,Topeka,Topeka,19MF
+1463,109688,F,2015,Charleston,Charleston,19MF
+1464,153231,F,2015,Detroit,Detroit,19MF
+1465,24645,M,2015,Nashville,Nashville,19MF
+1466,150636,M,2015,Indianapolis,Indianapolis,19MF
+1467,33517,F,2015,Topeka,Topeka,19MF
+1468,40811,M,2015,Scranton,Scranton,19MF
+1469,207969,M,2015,Indianapolis,Indianapolis,19MF
+1470,74226,F,2015,Topeka,Topeka,19MF
+1471,96694,M,2015,Nashville,Nashville,19MF
+1472,59190,M,2015,Charleston,Charleston,19MF
+1473,15798,M,2015,Newark,Newark,19MF
+1474,183373,F,2015,Newark,Newark,19MF
+1475,102997,M,2015,Indianapolis,Indianapolis,19MF
+1476,73694,M,2015,Charleston,Charleston,19MF
+1477,83113,M,2015,Nashville,Nashville,19MF
+1478,124840,M,2015,Scranton,Scranton,19MF
+1479,125711,F,2015,Fargo,Fargo,19MF
+1480,61492,F,2015,Newark,Newark,19MF
+1481,129299,M,2015,Newark,Newark,19MF
+1482,14425,F,2015,Charleston,Charleston,19MF
+1483,92289,F,2015,Fargo,Fargo,19MF
+1484,144000,M,2015,Fargo,Fargo,19MF
+1485,35978,F,2015,Indianapolis,Indianapolis,19MF
+1486,163719,F,2015,Detroit,Detroit,19MF
+1487,138702,M,2015,Indianapolis,Indianapolis,19MF
+1488,20915,M,2015,Scranton,Scranton,19MF
+1489,70479,M,2015,Detroit,Detroit,19MF
+1490,141321,M,2015,Nashville,Nashville,19MF
+1491,185870,F,2015,Newark,Newark,19MF
+1492,157388,F,2015,Detroit,Detroit,19MF
+1493,207462,F,2015,Newark,Newark,19MF
+1494,95724,F,2015,Detroit,Detroit,19MF
+1495,148365,F,2015,Charleston,Charleston,19MF
+1496,155627,F,2015,Nashville,Nashville,19MF
+1497,120739,F,2015,Indianapolis,Indianapolis,19MF
+1498,30928,F,2015,Scranton,Scranton,19MF
+1499,64414,F,2015,Topeka,Topeka,19MF
+1500,43848,M,2015,Topeka,Topeka,19MF
+1501,157841,M,2015,Nashville,Nashville,19MF
+1502,66204,F,2015,Fargo,Fargo,19MF
+1503,14227,F,2015,Newark,Newark,19MF
+1504,212331,M,2015,Charleston,Charleston,19MF
+1505,119332,M,2015,Scranton,Scranton,19MF
+1506,55834,F,2015,Nashville,Nashville,19MF
+1507,42718,M,2015,Indianapolis,Indianapolis,19MF
+1508,187790,M,2015,Indianapolis,Indianapolis,19MF
+1509,192313,M,2015,Indianapolis,Indianapolis,19MF
+1510,142991,M,2015,Charleston,Charleston,19MF
+1511,210449,F,2015,Fargo,Fargo,19MF
+1512,108182,M,2015,Detroit,Detroit,19MF
+1513,44219,M,2015,Newark,Newark,19MF
+1514,5915,M,2015,Newark,Newark,19MF
+1515,72889,F,2015,Fargo,Fargo,19MF
+1516,152542,F,2015,Fargo,Fargo,19MF
+1517,151132,M,2015,Charleston,Charleston,19MF
+1518,21492,F,2015,Fargo,Fargo,19MF
+1519,113862,M,2015,Topeka,Topeka,19MF
+1520,164264,M,2015,Detroit,Detroit,19MF
+1521,96759,M,2015,Newark,Newark,19MF
+1522,202072,M,2015,Nashville,Nashville,19MF
+1523,47161,M,2015,Detroit,Detroit,19MF
+1524,17825,M,2015,Fargo,Fargo,19MF
+1525,54882,M,2015,Indianapolis,Indianapolis,19MF
+1526,146901,F,2015,Scranton,Scranton,19MF
+1527,192105,M,2015,Indianapolis,Indianapolis,19MF
+1528,66184,F,2015,Fargo,Fargo,19MF
+1529,46073,F,2015,Detroit,Detroit,19MF
+1530,135649,M,2015,Newark,Newark,19MF
+1531,44298,M,2015,Newark,Newark,19MF
+1532,197937,M,2015,Nashville,Nashville,19MF
+1533,64135,M,2015,Scranton,Scranton,19MF
+1534,51787,M,2015,Nashville,Nashville,19MF
+1535,84465,M,2015,Scranton,Scranton,19MF
+1536,212981,F,2015,Topeka,Topeka,19MF
+1537,69963,F,2015,Scranton,Scranton,19MF
+1538,48010,M,2015,Topeka,Topeka,19MF
+1539,13151,F,2015,Topeka,Topeka,19MF
+1540,172226,F,2015,Topeka,Topeka,19MF
+1541,72143,M,2015,Nashville,Nashville,19MF
+1542,209679,M,2015,Charleston,Charleston,19MF
+1543,81891,F,2015,Fargo,Fargo,19MF
+1544,31809,M,2015,Fargo,Fargo,19MF
+1545,185815,F,2015,Scranton,Scranton,19MF
+1546,13667,M,2015,Nashville,Nashville,19MF
+1547,98332,F,2015,Scranton,Scranton,19MF
+1548,114914,M,2015,Fargo,Fargo,19MF
+1549,93753,F,2015,Charleston,Charleston,19MF
+1550,60657,F,2015,Detroit,Detroit,19MF
+1551,125704,M,2015,Detroit,Detroit,19MF
+1552,207559,M,2015,Scranton,Scranton,19MF
+1553,156711,F,2015,Newark,Newark,19MF
+1554,37076,M,2015,Fargo,Fargo,19MF
+1555,115983,F,2015,Indianapolis,Indianapolis,19MF
+1556,158686,M,2015,Nashville,Nashville,19MF
+1557,56483,M,2015,Scranton,Scranton,19MF
+1558,190050,F,2015,Nashville,Nashville,19MF
+1559,76006,F,2015,Fargo,Fargo,19MF
+1560,182965,M,2015,Charleston,Charleston,19MF
+1561,181266,M,2015,Fargo,Fargo,19MF
+1562,214557,M,2015,Nashville,Nashville,19MF
+1563,69718,M,2015,Scranton,Scranton,19MF
+1564,22731,F,2015,Indianapolis,Indianapolis,19MF
+1565,187629,F,2015,Scranton,Scranton,19MF
+1566,199451,F,2015,Indianapolis,Indianapolis,19MF
+1567,126553,F,2015,Nashville,Nashville,19MF
+1568,111085,F,2015,Charleston,Charleston,19MF
+1569,34981,M,2015,Topeka,Topeka,19MF
+1570,58463,M,2015,Newark,Newark,19MF
+1571,80090,F,2015,Newark,Newark,19MF
+1572,164267,M,2015,Charleston,Charleston,19MF
+1573,162236,F,2015,Nashville,Nashville,19MF
+1574,192934,F,2015,Fargo,Fargo,19MF
+1575,1211,F,2015,Topeka,Topeka,19MF
+1576,213081,M,2015,Newark,Newark,19MF
+1577,15028,F,2015,Topeka,Topeka,19MF
+1578,12251,F,2015,Fargo,Fargo,19MF
+1579,2456,M,2015,Topeka,Topeka,19MF
+1580,200464,F,2015,Detroit,Detroit,19MF
+1581,34583,M,2015,Nashville,Nashville,19MF
+1582,204458,F,2015,Nashville,Nashville,19MF
+1583,81920,F,2015,Detroit,Detroit,19MF
+1584,46022,F,2015,Newark,Newark,19MF
+1585,41222,F,2015,Scranton,Scranton,19MF
+1586,100699,F,2015,Nashville,Nashville,19MF
+1587,25970,F,2015,Indianapolis,Indianapolis,19MF
+1588,184389,F,2015,Charleston,Charleston,19MF
+1589,151397,F,2015,Nashville,Nashville,19MF
+1590,205617,M,2015,Indianapolis,Indianapolis,19MF
+1591,205858,M,2015,Newark,Newark,19MF
+1592,152415,M,2015,Fargo,Fargo,19MF
+1593,214356,F,2015,Detroit,Detroit,19MF
+1594,177207,M,2015,Newark,Newark,19MF
+1595,171527,F,2015,Indianapolis,Indianapolis,19MF
+1596,103777,F,2015,Indianapolis,Indianapolis,19MF
+1597,179537,F,2015,Scranton,Scranton,19MF
+1598,20535,M,2015,Scranton,Scranton,19MF
+1599,122128,M,2015,Detroit,Detroit,19MF
+1600,28537,F,2015,Scranton,Scranton,19MF
+1601,197802,F,2015,Topeka,Topeka,19MF
+1602,32323,M,2015,Detroit,Detroit,19MF
+1603,196666,M,2015,Newark,Newark,19MF
+1604,95260,M,2015,Scranton,Scranton,19MF
+1605,21402,M,2015,Indianapolis,Indianapolis,19MF
+1606,48056,F,2015,Fargo,Fargo,19MF
+1607,111906,F,2015,Nashville,Nashville,19MF
+1608,101518,F,2015,Scranton,Scranton,19MF
+1609,60404,F,2015,Detroit,Detroit,19MF
+1610,211121,F,2015,Fargo,Fargo,19MF
+1611,196717,M,2015,Scranton,Scranton,19MF
+1612,36003,M,2015,Detroit,Detroit,19MF
+1613,198983,M,2015,Topeka,Topeka,19MF
+1614,159021,M,2015,Nashville,Nashville,19MF
+1615,44195,F,2015,Topeka,Topeka,19MF
+1616,52569,M,2015,Fargo,Fargo,19MF
+1617,43688,F,2015,Nashville,Nashville,19MF
+1618,69587,F,2015,Detroit,Detroit,19MF
+1619,60559,F,2015,Nashville,Nashville,19MF
+1620,24217,M,2015,Scranton,Scranton,19MF
+1621,123900,F,2015,Scranton,Scranton,19MF
+1622,78187,F,2015,Charleston,Charleston,19MF
+1623,139186,M,2015,Newark,Newark,19MF
+1624,139526,F,2015,Indianapolis,Indianapolis,19MF
