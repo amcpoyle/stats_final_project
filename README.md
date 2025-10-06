@@ -9,5 +9,6 @@ Potential further applications of this data IF Bowdoin would just have stored th
 * Quantifying the "above replacement" value of menu items
 * Determining which menu items to phase out due to lack of interest from student body
 * Predicting length of dining hall lines/wait time for individual menu items/entire menus
+* * And using real data of wait times to create an "efficiency metric" of how efficient students are at moving through the food line
 * Generating predictions of food consumption
 * Creation of an algorithm to "balance" menus (e.g., ensure optimal length of lines at each dining hall by matching equally rated menus to each other)
